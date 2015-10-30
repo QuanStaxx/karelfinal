@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ closeWindow()
+comment1.params=
+comment1.target=boolean\ leftIsClear()
+comment2.params=
+comment2.target=void\ moveToNextWindow()
+comment3.params=
+comment3.target=void\ work()
+comment4.params=
+comment4.target=void\ turnRight()
+numComments=5
